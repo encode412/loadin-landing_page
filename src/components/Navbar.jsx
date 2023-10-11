@@ -8,16 +8,16 @@ const Navbar = () => {
         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
       </label>
       <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-        <li><a>Features</a></li>
+        <li><a href='#features'>Features</a></li>
         <li>
           <a>Company</a>
           <ul className="p-2">
-            <li><a>About us</a></li>
-            <li><a>How Loadin works</a></li>
-            <li><a>Our Offerings</a></li>
+            <li><a href='#learn'>About us</a></li>
+            <li><a href='#learn'>How Loadin works</a></li>
+            <li><a href='#learn'>Our Offerings</a></li>
           </ul>
         </li>
-        <li><a>FAQ's</a></li>
+        <li><a href='#questions'>FAQ's</a></li>
       </ul>
     </div>
     <a className="normal-case text-2xl font-semibold text-white mr-12 px-2">Loadin</a>
@@ -29,9 +29,9 @@ const Navbar = () => {
         <details>
           <summary>Company</summary>
           <ul className="p-2 max-w-full z-10 text-[#333] bg-[#eee]">
-            <li><a>About us</a></li>
-            <li><a>How Loadin works</a></li>
-            <li><a>Our Offerings</a></li>
+            <li><a href='#features'>About us</a></li>
+            <li><a href='#learn'>How Loadin works</a></li>
+            <li><a href='#learn'>Our Offerings</a></li>
           </ul>
         </details>
       </li>

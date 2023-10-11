@@ -9,7 +9,7 @@ const Carousel = () => {
                     <div className="flex flex-col px-24 py-24 text-black">
                         <h3 className="font-bold text-white text-4xl mb-6">Think heavy loads, Think Loadin</h3>
                         <span className='text-lg text-semibold mb-6'>A platform for moving heavy loads, and deliveries of bulky goods, for companies or individuals of any size.</span>
-                        <button className="!text-[#2b3d54] w-[20%] btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]">Read more</button>
+                        <button className="!text-[#2b3d54] w-[20%] btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]"><a href="#learn">Read more</a></button>
                     </div>
                 </div>
             </div>
@@ -22,7 +22,7 @@ const Carousel = () => {
                     <div className="flex flex-col px-24 py-24 text-black">
                         <h3 className="font-bold text-4xl mb-6 ">Think heavy loads, Think Loadin</h3>
                         <span className='text-lg font-semibold mb-6'>A platform for moving heavy loads, and deliveries of bulky goods, for companies or individuals of any size.</span>
-                        <button className="!text-[#2b3d54] w-[20%] btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]">Read more</button>
+                        <button className="!text-[#2b3d54] w-[20%] btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]"><a href="#learn"><a href="#learn">Read more</a></a></button>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@ const Carousel = () => {
                     <div className="flex flex-col px-24 py-24 text-black">
                         <h3 className="font-bold text-4xl mb-6">Think heavy loads, Think Loadin</h3>
                         <span className='text-lg text-semibold mb-6'>A platform for moving heavy loads, and deliveries of bulky goods, for companies or individuals of any size.</span>
-                        <button className="!text-[#2b3d54] w-[20%] btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]">Read more</button>
+                        <button className="!text-[#2b3d54] w-[20%] btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]"><a href="#learn">Read more</a></button>
                     </div>
                 </div>
             </div>
@@ -48,7 +48,7 @@ const Carousel = () => {
                     <div className="flex flex-col px-24 py-24 text-black">
                         <h3 className="font-bold text-4xl mb-6">Think heavy loads, Think Loadin</h3>
                         <span className='text-lg text-semibold mb-6'>A platform for moving heavy loads, and deliveries of bulky goods, for companies or individuals of any size.</span>
-                        <button className="!text-[#2b3d54] w-[20%] btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]">Read more</button>
+                        <button className="!text-[#2b3d54] w-[20%] btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]"><a href="#learn">Read more</a></button>
                     </div>
                 </div>
             </div>

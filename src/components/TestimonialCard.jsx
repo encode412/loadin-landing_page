@@ -1,6 +1,6 @@
 const TestimonialCard = ({text}) => {
   return (
-    <div className='mt-6 max-w-7xl ml-auto md:ml-8'>
+    <div className='mt-6 max-w-7xl ml-auto md:ml-8' id="learn">
     <h2 className='text-2xl md:text-3xl text-start md:ml-14 text-center ml-5 font-normal mt-10'>{text}</h2>
     <div className='grid md:grid-cols-3 gap-2 '>
         <div className="card p-0 rounded-none card-compact h-[430px] md:w-[380px] my-4 w-[350px] mx-auto  bg-base-100">

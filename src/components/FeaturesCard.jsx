@@ -1,6 +1,6 @@
 const FeaturesCard = ({text, image, imageTwo}) => {
   return (
-    <div className='max-w-7xl'>
+    <div className='max-w-7xl' id="features">
       <h2 className='text-2xl md:text-3xl md:ml-14 text-center ml-0 px-8 font-normal mt-10'>{text}</h2>
     <div className='mx-auto mt-6'>
       
