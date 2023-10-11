@@ -3,7 +3,7 @@ const FeaturesCard = ({text}) => {
     <div className='max-w-7xl mx-auto mt-6'>
     <div className='grid md:grid-cols-2 grid-cols-1 gap-4 md:gap-0'>
     <div className="card p-0 rounded-none card-compact w-[350px] md:w-[600px] bg-base-100 mx-auto">
-    <figure><img src="/images/carusel.jpg" alt="Shoes" /></figure>
+    <figure><img src="/images/load.jpg" alt="Shoes" /></figure>
     <div className="card-body flex-none !p-0">
     <h2 className="card-title py-4 uppercase text-[#2b3d54]">Shoes!</h2>
       <p className="text-base font-light">Afriland Propties Plc is a property management, investment and development company, offering end-to-end services Afriland Properties Plc is a property management, investment and development company, offering end-to-end services  </p>
