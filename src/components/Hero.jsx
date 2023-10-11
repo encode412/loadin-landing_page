@@ -5,7 +5,7 @@ const Hero = () => {
   <div className="hero-content text-center text-white">
     <div>
       <h1 className="md:mb-2 mb-5 md:px-5 text-4xl md:text-8xl font-bold"></h1>
-      <p className="mb-5 text-xl md:text-4xl font-medium">A platform for managing global rides and meals, and local deliveries, for companies of any size.</p>
+      <p className="mb-5 text-xl md:text-4xl font-normal">A platform for managing global rides and meals, and local deliveries, for companies of any size.</p>
       <button className="btn btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white hover:!border-none !border-[#ffffff]">Learn more</button>
     </div>
   </div>

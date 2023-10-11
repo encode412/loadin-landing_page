@@ -15,12 +15,12 @@ function App() {
       <Navbar />
       <Hero />
       <Carousel />
-      <h2 className='text-2xl md:text-3xl text-start md:ml-14 text-center ml-5 font-bold mt-10'>Move your heavy loads of various sizes</h2>
+      <h2 className='text-2xl md:text-3xl text-start md:ml-14 text-center ml-5 font-normal mt-10'>Move your heavy loads of various sizes</h2>
       <FeaturesCard />
-      <h2 className='text-xl md:text-3xl md:ml-12 text-center ml-0 font-bold mt-10'>Frequently Asked Questions</h2>
+      <h2 className='text-xl md:text-3xl md:ml-12 text-center ml-0 font-normal mt-10'>Frequently Asked Questions</h2>
       <FeaturesCard />
       <div className="flex-grow border-t border-gray-300 mt-8"></div>
-      <h2 className='text-xl md:text-3xl md:ml-12 text-center ml-0 font-bold mt-10'>Frequently Asked Questions</h2>
+      <h2 className='text-xl md:text-3xl md:ml-12 text-center ml-0 font-normal mt-10'>Frequently Asked Questions</h2>
       <TestimonialCard />
       <FrequentQuestions />
       <CTA />

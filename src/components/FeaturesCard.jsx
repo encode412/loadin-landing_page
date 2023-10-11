@@ -6,7 +6,7 @@ const FeaturesCard = ({text}) => {
     <figure><img src="/images/carusel.jpg" alt="Shoes" /></figure>
     <div className="card-body flex-none !p-0">
     <h2 className="card-title py-4 uppercase text-[#2b3d54]">Shoes!</h2>
-      <p className="text-base">Afriland Propties Plc is a property management, investment and development company, offering end-to-end services Afriland Properties Plc is a property management, investment and development company, offering end-to-end services  </p>
+      <p className="text-base font-light">Afriland Propties Plc is a property management, investment and development company, offering end-to-end services Afriland Properties Plc is a property management, investment and development company, offering end-to-end services  </p>
       <div className="card-actions justify-start">
       <button className="btn !text-[#2b3d54] !font-semibold btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]">Read more</button>
       </div>
@@ -18,7 +18,7 @@ const FeaturesCard = ({text}) => {
     <figure><img src="/images/img0.jpg" alt="Shoes" /></figure>
     <div className="!p-0 card-body">
       <h2 className="card-title py-4 uppercase text-[#2b3d54]">Shoes!</h2>
-      <p className="text-base">Afriland Properties Plc is a property management, investment and development company, offering end-to-end services </p>
+      <p className="text-base font-light">Afriland Properties Plc is a property management, investment and development company, offering end-to-end services </p>
       <div className="card-actions justify-start">
         <button className="btn !text-[#2b3d54] !font-semibold btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]">Read more</button>
       </div>
