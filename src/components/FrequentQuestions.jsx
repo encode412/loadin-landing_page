@@ -14,37 +14,37 @@ const FrequentQuestions = () => {
 <div className="collapse mt-8 !rounded p-2 collapse-arrow bg-base-200">
   <input type="radio" name="my-accordion-2" /> 
   <div className="collapse-title text-xl font-medium">
-    Click to open this one and close others
+    What if i do not have a smartphone to book a vehicle?
   </div>
   <div className="collapse-content"> 
-    <p>hello</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis amet, voluptates optio consequatur eius in! Tempora cupiditate ex, deserunt numquam accusantium adipisci laudantium voluptatem consectetur quasi quas vero nulla fuga.</p>
   </div>
 </div>
 <div className="collapse mt-8 !rounded p-2 collapse-arrow bg-base-200">
   <input type="radio" name="my-accordion-2" /> 
   <div className="collapse-title text-xl font-medium">
-    Click to open this one and close others
+    What if i do not have a smartphone to book a vehicle?
   </div>
   <div className="collapse-content"> 
-    <p>hello</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis amet, voluptates optio consequatur eius in! Tempora cupiditate ex, deserunt numquam accusantium adipisci laudantium voluptatem consectetur quasi quas vero nulla fuga.</p>
   </div>
 </div>
 <div className="collapse mt-8 !rounded p-2 collapse-arrow bg-base-200">
   <input type="radio" name="my-accordion-2" /> 
   <div className="collapse-title text-xl font-medium">
-    Click to open this one and close others
+    What if i do not have a smartphone to book a vehicle?
   </div>
   <div className="collapse-content"> 
-    <p>hello</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis amet, voluptates optio consequatur eius in! Tempora cupiditate ex, deserunt numquam accusantium adipisci laudantium voluptatem consectetur quasi quas vero nulla fuga.</p>
   </div>
 </div>
 <div className="collapse mt-8 !rounded p-2 collapse-arrow bg-base-200">
   <input type="radio" name="my-accordion-2" /> 
   <div className="collapse-title text-xl font-medium">
-    Click to open this one and close others
+    What if i do not have a smartphone to book a vehicle?
   </div>
   <div className="collapse-content"> 
-    <p>hello</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis amet, voluptates optio consequatur eius in! Tempora cupiditate ex, deserunt numquam accusantium adipisci laudantium voluptatem consectetur quasi quas vero nulla fuga.</p>
   </div>
 </div>
     </div>
