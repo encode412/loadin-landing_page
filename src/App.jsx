@@ -16,9 +16,9 @@ function App() {
       <Hero />
       <Carousel />
       {/* <h2 className='text-2xl md:text-3xl text-start md:ml-14 text-center ml-5 font-normal mt-10'>Move your heavy loads of various sizes</h2> */}
-      <FeaturesCard text='Move your heavy loads of various sizes'/>
+      <FeaturesCard text='Move your heavy loads of various sizes' image="/images/load1.jpg" imageTwo="/images/load6.jpg"/>
       {/* <h2 className='text-xl md:text-3xl md:ml-12 text-start md:text-center ml-6 md:ml-0 font-normal mt-10'></h2> */}
-      <FeaturesCard text='Move your heavy loads of various sizes'/>
+      <FeaturesCard text='Move your heavy loads of various sizes' image="/images/load.jpg" imageTwo="/images/load5.jpg"/>
       <div className="flex-grow border-t border-gray-300 mt-8"></div>
       <h2 className='text-xl md:text-3xl md:ml-12 text-center ml-0 font-normal mt-10 uppercase'>Features | Updates</h2>
       <TestimonialCard />
