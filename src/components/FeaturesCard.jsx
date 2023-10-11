@@ -1,7 +1,10 @@
 const FeaturesCard = ({text}) => {
   return (
-    <div className='max-w-7xl mx-auto mt-6'>
-    <div className='grid md:grid-cols-2 grid-cols-1 gap-4 md:gap-0'>
+    <div className='max-w-7xl'>
+      <h2 className='text-2xl md:text-3xl md:ml-14 text-center ml-0 px-8 font-normal mt-10'>{text}</h2>
+    <div className='mx-auto mt-6'>
+      
+    <div className='grid md:grid-cols-2 grid-cols-1 gap-4 ml-0 md:ml-24 md:gap-0'>
     <div className="card p-0 rounded-none card-compact w-[350px] md:w-[600px] bg-base-100 mx-auto">
     <figure><img src="/images/load.jpg" alt="Shoes" /></figure>
     <div className="card-body flex-none !p-0">
@@ -23,6 +26,7 @@ const FeaturesCard = ({text}) => {
         <button className="btn !text-[#2b3d54] !font-semibold btn-ghost !rounded-none hover:!bg-[#061E45] hover:!text-white !border-[#061E45]">Read more</button>
       </div>
     </div>
+  </div>
   </div>
   </div>
   </div>
