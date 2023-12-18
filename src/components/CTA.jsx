@@ -1,7 +1,7 @@
 import { AiOutlineArrowRight } from "react-icons/ai";
 const CTA = () => {
   return (
-    <div className="max-w-7xl mx-6 md:mx-16 mt-10 ">
+    <div className="mx-6 md:mx-16 mt-10 ">
     <div className='hidden md:block'>
       <div className='bg-base-200 p-6 mt-6 rounded '>
         <h2 className='text-3xl font-bold'>Start using Loadin today</h2>
